@@ -1,4 +1,4 @@
-Introduction
+Introduction: 
 This project aims to detect and recognize sign language gestures using a combination of MediaPipe Holistic for hand tracking and pose estimation, and Long Short-Term Memory (LSTM) networks for sequence modeling. Sign language detection is crucial for enabling communication accessibility for individuals with hearing impairments.
 
 Requirements
